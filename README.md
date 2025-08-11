@@ -5,8 +5,8 @@ About me & what I’m looking for:
 
 🎓 Education:
 
--> https://www.pgimkn.com ->  High School of Agriculture "St. Kliment Ohridski" - Major: "Economics and Management" (1999 - 2003)
--> https://www.swu.bg/bg -> "Finance" (2006-2010) 
+https://www.pgimkn.com ->  High School of Agriculture "St. Kliment Ohridski" - Major: "Economics and Management" (1999 - 2003)
+https://www.swu.bg/bg -> "Finance" (2006-2010) 
 
 🤹 Technologies and tools:
 
