@@ -9,7 +9,7 @@ About me & what I’m looking for:
 -> https://www.swu.bg/bg -> "Finance" (2006-2010) 
 
 Technologies and tools:
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+
 C++,
 Java,
 JavaScript,
@@ -24,6 +24,7 @@ VSCode,
 Visual Studio,
 CLion,
 IntelliJ Ultimate
+Eclipse
 
 Linux, Windows
 
