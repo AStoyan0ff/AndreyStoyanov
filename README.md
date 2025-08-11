@@ -16,14 +16,14 @@ JavaScript,
 Nodejs,
 HTML,
 CSS,
-git,
-gitHub,
-gitlab,
+Git,
+GitHub,
+Gitlab,
 
 VSCode,
 Visual Studio,
 CLion,
-IntelliJ Ultimate
+IntelliJ Ultimate,
 Eclipse
 
 Linux, Windows
