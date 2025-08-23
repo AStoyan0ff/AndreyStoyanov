@@ -30,7 +30,6 @@
 
 ## 📫 How to contact me:
 📧 **Email:** chessterfield@gmail.com  
-🌐 **GitHub:** [AStoyanoff](https://github.com/AStoyanoff)
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351) 
 
 ---
@@ -40,7 +39,5 @@
 
 ---
 
-### 🚀 Most commonly used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyanoff&layout=compact&theme=radical)
-
 ## Keep codin' =)
+## Regards : AStoyanoff
