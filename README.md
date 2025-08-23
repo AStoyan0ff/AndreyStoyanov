@@ -39,5 +39,9 @@
 
 ---
 
+## 📂 Projects:
+🔹 **[Calculator App](https://github.com/AStoyan0ff/Calculator/tree/master/src/Calcilators)** – Калкулатор с HTML, CSS и JavaScript  
+*(✅ Responsive design, ✅ Click animations, ✅ 3D display)*  
+
 ## Keep codin' =)
 ## Regards : AStoyanoff
