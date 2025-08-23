@@ -61,7 +61,7 @@
 
 ## 📫 Contacts:
 📧 **Email:** chessterfield@gmail.com 
-🌐 **GitHub:** [AStoyanoff]([https://github.com/AStoyanoff](https://github.com/AStoyan0ff/AndreyStoyanov))  
+🌐 **GitHub:** [AStoyanoff](https://github.com/AStoyan0ff/AndreyStoyanov)  
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351)  
 
 ---
