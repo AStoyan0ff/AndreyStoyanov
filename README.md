@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AStoyanoff  
+# 👋 Hi, I'm AStoyanoff 👻
 
 🎓 **Student at [Software University (SoftUni)](https://softuni.bg)**  
 💻 I love programming and developing in the field of software development. 
