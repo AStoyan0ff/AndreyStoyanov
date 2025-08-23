@@ -60,7 +60,7 @@
 ---
 
 ## 📫 Contacts:
-📧 **Email:** твой_email@example.com  
+📧 **Email:** chessterfield@gmail.com 
 🌐 **GitHub:** [AStoyanoff](https://github.com/AStoyanoff)  
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351)  
 
