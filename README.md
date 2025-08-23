@@ -53,10 +53,6 @@
 🔹 **[Calculator App](https://github.com/AStoyan0ff/Calculator/tree/master/src/Calcilators)** – Калкулатор с HTML, CSS и JavaScript  
 *(✅ Responsive design, ✅ Click animations, ✅ 3D display)*  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AStoyan0ff/Calculator/master/screenshots/calculator.png" width="400" alt="Calculator Preview"/>
-</p>
-
 ---
 
 ## 📫 Contacts:
