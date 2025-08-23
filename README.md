@@ -28,6 +28,15 @@
 
 ---
 
+### 🛠️ IDEs and Development Environments:
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+---
+
 ## 📫 How to contact me:
 📧 **Email:** chessterfield@gmail.com  
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351) 
