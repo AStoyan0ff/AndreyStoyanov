@@ -5,7 +5,7 @@
 </h1>
 
 🎓 **Student at [Software University (SoftUni.bg)](https://softuni.bg)**  
-💻 I love programming and developing in the field of software development.
+💻 **I love programming and developing in the field of software development.**
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 
 ## 📂 Projects:
-🔹 **[Calculator App](https://github.com/AStoyan0ff/Calculator/tree/master/src/Calcilators)** – Калкулатор с HTML, CSS и JavaScript  
+🔹 **[Calculator App](https://github.com/AStoyan0ff/Calculator/tree/master/src/Calcilators)** – Calculator : HTML, CSS и JavaScript  
 *(✅ Responsive design, ✅ Click animations, ✅ 3D display)*  
 
 ---
