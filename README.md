@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, i'm AStoyanoff  
   <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+  <img src="C:\Users\HP\OneDrive\Pictures\photo_2025-08-28_16-21-13.jpg"  width="150">
 </h1>
 
 🎓 **Student at [Software University (SoftUni.bg)](https://softuni.bg)**  
