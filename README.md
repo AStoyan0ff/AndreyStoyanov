@@ -101,7 +101,7 @@
 
 📈 GitHub Activity Graph:
   <p>
-    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
   </p>
 
   ---
