@@ -20,6 +20,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### 🏗️ OOP Skills (Java & C++)
+- **Encapsulation:** Using private fields with getters/setters  
+- **Inheritance:** Base and derived classes  
+- **Polymorphism:** Method overloading and overriding  
+- **Abstraction:** Abstract classes and interfaces  
+- **Exception Handling:** Try-catch-finally blocks  
+- **Collections & Generics:** Lists, Maps, Sets, Templates  
+- **File I/O & Serialization:** Reading/writing files, object streams  
+
 ---
 
 ### 🖥️ Operating systems:
@@ -36,6 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ---
@@ -59,7 +69,7 @@
 ---
 
 ## 📫 Contacts:
-📧 **Email:** chessterfield@gmail.com 
+📧 **Email:** chessterfield@gmail.com  
 🌐 **GitHub:** [AStoyanoff](https://github.com/AStoyan0ff/AndreyStoyanov)  
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351)  
 
