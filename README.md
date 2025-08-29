@@ -104,5 +104,10 @@
 
 ---
 
+📈 GitHub Activity Graph:
+  <p>
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
+  </p>
+
 ### 🚀 Most commonly used languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyanoff&layout=compact&theme=radical)
