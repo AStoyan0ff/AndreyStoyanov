@@ -1,7 +1,7 @@
 <h1 align="center">
-  👋 Hi, i'm AStoyanoff  
+  👋 Hi, Welcome to my profile!!!  
   <br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25jaTAxa2loanV5azR5dXI3a29jZnpjd3V0aGE5NmZ0bzAzZ3c3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif"  width="300">
+ <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
 </h1>
 
 🎓 `Student at [Software University (SoftUni.bg)](https://softuni.bg)`
@@ -99,12 +99,6 @@
 
 ---
 
-📈 GitHub Activity Graph:
-  <p>
-    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
-  </p>
-
-  ---
 
 ### 📊 GitHub statistics:
 ![AStoyanoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=AStoyanoff&show_icons=true&theme=radical)
