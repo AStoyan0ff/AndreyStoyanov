@@ -96,10 +96,14 @@
 ## 🔑 Characteristic's: 
 
 ✔ Realistic key layout 
-✔ Using **Flexbox** for flexible positioning  
-✔ **Hover effects** and button click animation  
-✔ **Responsive design** support  
-✔ Easy customization via `CSS`  
+
+✔ Using **Flexbox** for flexible positioning
+
+✔ **Hover effects** and button click animation
+
+✔ **Responsive design** support 
+
+✔ Easy customization via `CSS` 
 
 
 ## 🛠 Technologies:
