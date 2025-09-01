@@ -92,25 +92,23 @@
 ### 📂 Projects:
 🔹 **[Keyboard App](https://github.com/AStoyan0ff/KeyBoard)** - `HTML` & `CSS` 
 
-## 🔑 Характеристики
+## 🔑 Characteristic's: 
 
-✔ Реалистична подредба на клавишите  
-✔ Използване на **Flexbox** за гъвкаво позициониране  
-✔ **Hover ефекти** и анимация при натискане на бутон  
-✔ Поддръжка на **адаптивен дизайн**  
-✔ Лесно персонализиране чрез CSS  
+✔ Realistic key layout 
+✔ Using **Flexbox** for flexible positioning  
+✔ **Hover effects** and button click animation  
+✔ **Responsive design** support  
+✔ Easy customization via `CSS`  
 
 
-## 🛠 Технологии
+## 🛠 Technologies:
 
 - **HTML5**
 - **CSS3 (Flexbox, Responsive Design)**
 
 ---
 
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
-
- ---
+---
 
 ### 📫 Contacts:
 🌐 **codeberg** https://codeberg.org/AStoyanoff
