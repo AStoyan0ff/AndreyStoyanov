@@ -1,8 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm AStoyanoff 🥷🏻
-  
- <br>
-`Welcome to my profile`
+  👋 Hi, I'm AStoyanoff 🥷🏻 <em>Welcome to my profile</em>
     
   <br>
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
