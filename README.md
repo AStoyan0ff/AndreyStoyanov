@@ -5,7 +5,7 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="BEPb's github activity graph" style="max-width: 100%;">
 </h1>
 
-🎓 `Student at [Software University (SoftUni.bg)](https://softuni.bg)`
+🎓 **Student at [Software University]** - `(https://softuni.bg)`
 
 💻 `I love programming and developing in the field of software development.`
 
