@@ -1,4 +1,4 @@
-<img alt="Hi, I'm AStoyanoff" src="https://camo.githubusercontent.com/c732461877b215b179524899faf87c7a36f02c6c1d16ab272f65f6bc93bffe74/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d33303026636f6c6f723d6772616469656e7426746578743d48692e2e2e49276d2532304272616e646f6e25323045737472656c6c61" style="width: 100%; max-width: 100%;" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Hi...I'm%20Astoyanoff%20">
+<img alt="Hi, I'm AStoyanoff" src="https://camo.githubusercontent.com/c732461877b215b179524899faf87c7a36f02c6c1d16ab272f65f6bc93bffe74/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d33303026636f6c6f723d6772616469656e7426746578743d48692e2e2e49276d2532304272616e646f6e25323045737472656c6c61" style="width: 100%; max-width: 100%;" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text= Hi...I'm AStoyanoff">
 
 
 <h1 align="center">
