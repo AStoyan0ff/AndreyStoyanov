@@ -109,7 +109,7 @@
 ## 🛠 Technologies:
 
 - **HTML5**
-- **CSS3 (Flexbox, Responsive Design)**
+- **CSS3** (Flexbox, Responsive Design)
 
 ---
 
