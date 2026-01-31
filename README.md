@@ -7,7 +7,7 @@
 
 🎓 **Student at [Software University]** - https://softuni.bg
 
-💻 <em>`I love programming and developing in the field of software development.`</em>
+💻 <em>`I love programming and developing in the field of software development!`</em>
 
 ---
 
