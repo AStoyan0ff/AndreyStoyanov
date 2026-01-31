@@ -139,12 +139,3 @@
 🔗 **LinkedIn:** [Andrey Stoyanov](https://www.linkedin.com/in/andrey-stoyanov-a2b055351)  
 
 ---
-
-
-### 📊 GitHub statistics:
-![AStoyanoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=AStoyanoff&show_icons=true&theme=radical)
-
----
-
-### 🚀 Most commonly used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyanoff&layout=compact&theme=radical)
