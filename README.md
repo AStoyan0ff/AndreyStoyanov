@@ -105,13 +105,9 @@
 ## 🎯 Goals for 2026
 
 * 🚀 Build full-stack projects with **Spring Boot + React**
-* 
 * 🧩 Develop scalable RESTful services
-* 
 * 🏗️ Learn **Microservices Architecture**
-* 
 * ☁️ Get familiar with **Cloud (AWS / Azure basics)**
-* 
 * 💼 Land a **Backend Developer Internship**
 
 ---
