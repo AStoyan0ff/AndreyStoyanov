@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Specialist;Backend+Engineer;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Specialist;Full-Stack+Engineer;Clean+Code+Advocate" />
 </p>
 
 <p align="center">
