@@ -60,8 +60,6 @@
 
 ## 🏆 Achievements & Badges
 
-## 🏆 Achievements & Badges
-
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub%20Star-yellow?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/-Open%20Source-blue?style=for-the-badge&logo=github"/>
@@ -81,12 +79,7 @@
 
 ## 🏆 Achievements & Trophies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Trophy-Starstruck-ffdd00?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Trophy-Quickdraw-00ddff?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Trophy-Pull%20Shark-ff00dd?style=for-the-badge&logo=github"/>
-  <img src="https://img-shields.io/badge/Trophy-Galaxy%20Brain-7f00ff?style=for-the-badge&logo=github"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
