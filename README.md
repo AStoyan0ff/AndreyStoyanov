@@ -11,8 +11,6 @@
 
 ---
 
-### 🛠️ Skills and technologies 
-
 ### 🛠️ Skills
 
 #### 💻 Languages
