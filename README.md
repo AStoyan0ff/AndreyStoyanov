@@ -24,8 +24,11 @@
 ## 🚀 About Me
 
 🎓 Student at [Software University](https://softuni.bg)
+
 💡 Focused on **Backend Development with Java & Spring Boot**
+
 🧠 Strong in **OOP, Algorithms & Data Structures**
+
 ⚡ Passionate about **clean architecture & scalable systems**
 
 ---
