@@ -3,12 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-
-<p align="center">
-  <em>🚀 Backend Developer | Java & Spring Boot | Building scalable systems</em>
+  <em>🚀 Java Full-Stack Developer | C++ Developer | Java & Spring Boot | Building scalable systems</em>
 </p>
 
 <p align="center">
@@ -19,15 +14,19 @@
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-🎓 Student at [Software University](https://softuni.bg)
+🎓 Student at [Software University](https://softuni.bg)  
 
-💡 Focused on **Backend Development with Java & Spring Boot**
+💡 Focused on **Backend Development with Java & Spring Boot**  
 
-🧠 Strong in **OOP, Algorithms & Data Structures**
+🧠 Strong in **OOP, Algorithms & Data Structures**  
 
 ⚡ Passionate about **clean architecture & scalable systems**
 
@@ -36,19 +35,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 ![Languages](https://skillicons.dev/icons?i=java,cpp,js,html,css)
 
 ### ⚙️ Backend & Tools
-
 ![Tools](https://skillicons.dev/icons?i=spring,nodejs,kafka,git,github,vscode,idea,postman)
 
 ### 🗄️ Databases
-
 ![DB](https://skillicons.dev/icons?i=mysql,postgresql,oracle)
 
 ### 🖥️ Systems
-
 ![Systems](https://skillicons.dev/icons?i=linux,windows,apple)
 
 ---
@@ -84,62 +79,53 @@
 
 ## 🧠 Core Skills
 
-✔ Object-Oriented Programming
-
-✔ Data Structures & Algorithms
-
-✔ REST API Development
-
-✔ Database Design & Optimization
-
-✔ Clean Code & Design Patterns
+✔ Object-Oriented Programming  
+✔ Data Structures & Algorithms  
+✔ REST API Development  
+✔ Database Design & Optimization  
+✔ Clean Code & Design Patterns  
 
 ---
 
 ## 💼 Portfolio
 
+<p align="center">
+  <a href="https://github.com/AStoyan0ff/Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=Calculator&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/AStoyan0ff/KeyBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=KeyBoard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 🧪 Currently Learning
 
-* 🌱 Deepening knowledge in **Spring Boot & Spring Data**
-* ⚡ Working with **REST APIs & backend architecture**
-* 🧠 Improving **Data Structures & Algorithms skills**
-* 🐳 Exploring **Docker & containerization**
+- 🌱 Deepening knowledge in **Spring Boot & Spring Data**
+- ⚡ Working with **REST APIs & backend architecture**
+- 🧠 Improving **Data Structures & Algorithms skills**
+- 🐳 Exploring **Docker & containerization**
 
 ---
 
 ## 🎯 Goals for 2026
 
-* 🚀 Build full-stack projects with **Spring Boot + React**
-* 🧩 Develop scalable RESTful services
-* 🏗️ Learn **Microservices Architecture**
-* ☁️ Get familiar with **Cloud (AWS / Azure basics)**
-* 💼 Land a **Backend Developer Internship**
+- 🚀 Build full-stack projects with **Spring Boot + React**
+- 🧩 Develop scalable RESTful services
+- 🏗️ Learn **Microservices Architecture**
+- ☁️ Get familiar with **Cloud (AWS / Azure basics)**
+- 💼 Land a **Backend Developer Internship**
 
 ---
 
 ## 💡 Developer Mindset
 
-✔ I focus on writing **clean, maintainable code**
-
-✔ I enjoy solving **complex problems**
-
-✔ I continuously learn and improve every day
-
-✔ I build projects to **apply knowledge in practice**
-
-
----
-
-
-<p align="center">
-  <a href="https://github.com/AStoyan0ff/Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=Calculator&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/AStoyan0ff/KeyBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=KeyBoard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+✔ I focus on writing **clean, maintainable code**  
+✔ I enjoy solving **complex problems**  
+✔ I continuously learn and improve every day  
+✔ I build projects to **apply knowledge in practice**  
 
 ---
 
