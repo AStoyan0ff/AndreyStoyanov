@@ -82,9 +82,13 @@
 ## 🧠 Core Skills
 
 ✔ Object-Oriented Programming
+
 ✔ Data Structures & Algorithms
+
 ✔ REST API Development
+
 ✔ Database Design & Optimization
+
 ✔ Clean Code & Design Patterns
 
 ---
