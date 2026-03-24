@@ -80,8 +80,11 @@
 📌 HTML, CSS, JavaScript
 
 ✔ Responsive UI
+
 ✔ Interactive animations
+
 ✔ Clean design
+
 
 🔗 https://github.com/AStoyan0ff/Calculator
 
