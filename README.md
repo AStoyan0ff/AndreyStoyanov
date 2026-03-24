@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>🚀 Java Full-Stack Developer | C++ Developer | Java & Spring Boot | Building scalable systems</em>
+  <em>🚀 Java Full-Stack Software Engineer</em>
 </p>
 
 <p align="center">
@@ -23,11 +23,8 @@
 ## 🚀 About Me
 
 🎓 Student at [Software University](https://softuni.bg)  
-
-💡 Focused on **Backend Development with Java & Spring Boot**  
-
+💡 Focused on **Full-Stack Development with Java & Spring Boot**  
 🧠 Strong in **OOP, Algorithms & Data Structures**  
-
 ⚡ Passionate about **clean architecture & scalable systems**
 
 ---
