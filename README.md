@@ -17,10 +17,13 @@
 ![Languages](https://skillicons.dev/icons?i=html,css,js,cpp,java)
 
 #### ⚙️ Backend & Tools
-![Tools](https://skillicons.dev/icons?i=nodejs,git,github,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=nodejs,spring,kafka,git,github,vscode,idea,clion,postman)
 
 #### 🗄️ Databases
 ![DB](https://skillicons.dev/icons?i=mysql,postgresql,oracle)
+
+#### 🖥️ Operating Systems
+![OS](https://skillicons.dev/icons?i=linux,windows,apple)
 
 ---
 
