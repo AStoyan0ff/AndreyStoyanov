@@ -61,10 +61,15 @@
 ## 🧠 Core Skills
 
 ✔ Object-Oriented Programming (Java & C++)
+
 ✔ Data Structures & Algorithms
+
 ✔ REST APIs & Backend Logic
+
 ✔ Database Design & SQL
+
 ✔ Clean Code & Design Principles
+
 
 ---
 
