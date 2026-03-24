@@ -98,8 +98,6 @@
 
 ## 💼 Portfolio
 
----
-
 ## 🧪 Currently Learning
 
 * 🌱 Deepening knowledge in **Spring Boot & Spring Data**
