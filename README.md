@@ -3,11 +3,16 @@
 </h1>
 
 <p align="center">
-  <em>💻 Java & Backend Developer in progress | 🚀 Passionate about building scalable systems</em>
+  <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
+<p align="center">
+  <em>🚀 Backend Developer | Java & Spring Boot | Building scalable systems</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Specialist;Backend+Engineer;Clean+Code+Advocate" />
 </p>
 
 <p align="center">
@@ -19,9 +24,9 @@
 ## 🚀 About Me
 
 🎓 Student at [Software University](https://softuni.bg)
-💡 Focused on **Java, Spring Boot, and Backend Development**
-🧠 Strong understanding of **OOP, Data Structures & Algorithms**
-⚡ Interested in **scalable systems and clean architecture**
+💡 Focused on **Backend Development with Java & Spring Boot**
+🧠 Strong in **OOP, Algorithms & Data Structures**
+⚡ Passionate about **clean architecture & scalable systems**
 
 ---
 
@@ -58,47 +63,82 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AStoyan0ff&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Core Skills
 
-✔ Object-Oriented Programming (Java & C++)
-
+✔ Object-Oriented Programming
 ✔ Data Structures & Algorithms
+✔ REST API Development
+✔ Database Design & Optimization
+✔ Clean Code & Design Patterns
 
-✔ REST APIs & Backend Logic
+---
 
-✔ Database Design & SQL
+## 💼 Portfolio
 
-✔ Clean Code & Design Principles
+---
+
+## 🧪 Currently Learning
+
+* 🌱 Deepening knowledge in **Spring Boot & Spring Data**
+* ⚡ Working with **REST APIs & backend architecture**
+* 🧠 Improving **Data Structures & Algorithms skills**
+* 🐳 Exploring **Docker & containerization**
+
+---
+
+## 🎯 Goals for 2026
+
+* 🚀 Build full-stack projects with **Spring Boot + React**
+* 
+* 🧩 Develop scalable RESTful services
+* 
+* 🏗️ Learn **Microservices Architecture**
+* 
+* ☁️ Get familiar with **Cloud (AWS / Azure basics)**
+* 
+* 💼 Land a **Backend Developer Internship**
+
+---
+
+## 💡 Developer Mindset
+
+✔ I focus on writing **clean, maintainable code**
+
+✔ I enjoy solving **complex problems**
+
+✔ I continuously learn and improve every day
+
+✔ I build projects to **apply knowledge in practice**
 
 
 ---
 
-## 🏆 Projects
 
-### 🔹 Calculator App
+<p align="center">
+  <a href="https://github.com/AStoyan0ff/Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=Calculator&theme=tokyonight&hide_border=true" />
+  </a>
 
-📌 HTML, CSS, JavaScript
-
-✔ Responsive UI
-
-✔ Interactive animations
-
-✔ Clean design
-
-
-🔗 https://github.com/AStoyan0ff/Calculator
-
----
-
-### 🔹 Keyboard App
-
-📌 HTML & CSS
-
-✔ Flexbox layout
-✔ Realistic keyboard design
-✔ Responsive structure
-
-🔗 https://github.com/AStoyan0ff/KeyBoard
+  <a href="https://github.com/AStoyan0ff/KeyBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=KeyBoard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -119,5 +159,5 @@
 ---
 
 <p align="center">
-  ⚡ <em>"Code. Learn. Build. Repeat."</em>
+  ⚡ <em>"First, solve the problem. Then, write the code."</em>
 </p>
