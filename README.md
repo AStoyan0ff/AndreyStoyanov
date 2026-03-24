@@ -58,10 +58,13 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/-GitHub%20Star-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Open%20Source-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Committed%20Daily-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Top%20Languages-purple?style=for-the-badge&logo=github"/>
 </p>
 
 ---
