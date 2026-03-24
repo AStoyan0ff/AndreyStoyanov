@@ -77,17 +77,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Trophy-Starstruck-ffdd00?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Trophy-Quickdraw-00ddff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Trophy-Pull%20Shark-ff00dd?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Trophy-Galaxy%20Brain-7f00ff?style=for-the-badge&logo=github" />
-</p>
-
----
-
 ## 🧠 Core Skills
 
 ✔ Object-Oriented Programming  
